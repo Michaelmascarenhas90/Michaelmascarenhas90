@@ -2,52 +2,69 @@
 
 ## Olá,
 
-Meu nome é **Michael Mascarenhas**, sou de Contagem - MG, Brasil. Sou **estudante de Desenvolvimento Web na Trybe** 🧑🏽‍💻 🚀.
+Meu nome é **Michael Mascarenhas**, **desenvolvedor full stack pleno** com foco em **Front-end** 🧑🏽‍💻 🚀.
 
 **O que me compõe:**
 
-- ✅ Já conclui o modulo de Front-end na Trybe.
-- 📝 Estou estudando o modulo de Back-end na Trybe (Node.js).
-- 📑 Veja meu curriculo na radartec [aqui](https://radartec.com.br/michaelmascarenhas)
+- ✅ Desenvolvendo soluções desde 2019.
+- :computer: Apaixonado por tecnologia.
+- :mortar_board: Determinado em aprender.
+- 📝 Trabalhando em grandes projetos de startups desde 2021.
+- 📑 Desenvolvendo soluções para pequenos comerciantes e negocios locais desde 2019.
 - 📬 Precisa falar comigo, me envie um email:  **michael.mascarenhas3@gmail.com**
 - Visite meu linkedIn [aqui](https://www.linkedin.com/in/michaeliurimascarenhas/)
 
 
 #### Meus hobbies:
 
- - 🥁 Tocar bateria 
+ - 🥁 Tocar bateria
  - 🎧 Ouvir música / ouvir podcasts / audiobooks
+ - :mortar_board: Entusiasta em aprender coisas novas e aleatórias
 
 #### Ferramentas que já utilizo: 
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
-</p>
+<div align="center" style="display: inline_block"><br><br>
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
-</p>
+  <div align="center" style="display: inline_block">
+    Stacks:
+    <br><br>
 
-<div>
+   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br><br>
+
+       
+   <img align="center" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /><br>
+
+   <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+   <img align="center" src="https://img.shields.io/badge/-nest-%23C21325?style=for-the-badge&logo=nestjs&logoColor=white" />
+    
+  </div>
+   <br>
+  <div align="center" style="display: inline_block">Social Media: <br><br>
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ </div>
+<br>
+ <div align="center" style="display: inline_block">System use: <br><br>
+ <div>
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+ </div>
+
+</div>
+<br>
+<br>
+
+
+<div display="flex" flex-direction="row" justify-content="space-around">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Michaelmascarenhas90&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="michael-mascarenhas" />
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelmascarenhas90&layout=compact" />
 </div>
 
-
-
-
-
-###### Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)

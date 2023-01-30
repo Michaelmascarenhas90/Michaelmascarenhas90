@@ -2,7 +2,7 @@
 
 ## Olá,
 
-Meu nome é **Michael Mascarenhas**, **desenvolvedor full stack pleno** com foco em **Front-end** 🧑🏽‍💻 🚀.
+Meu nome é **Michael Mascarenhas**, **desenvolvedor full stack pleno** com foco em **Front-end** pleno 🧑🏽‍💻 🚀.
 
 **O que me compõe:**
 

@@ -6,11 +6,11 @@ Meu nome é **Michael Mascarenhas**, **desenvolvedor full stack pleno** com foco
 
 **O que me compõe:**
 
-- ✅ Desenvolvendo soluções desde 2019.
+- ✅ Desenvolvendo soluções desde 2018.
 - :computer: Apaixonado por tecnologia.
 - :mortar_board: Determinado em aprender.
 - 📝 Trabalhando em grandes projetos de startups desde 2021.
-- 📑 Desenvolvendo soluções para pequenos comerciantes e negocios locais desde 2019.
+- 📑 Desenvolvendo soluções para pequenos comerciantes e negocios locais desde 2018.
 - 📬 Precisa falar comigo, me envie um email:  **michael.mascarenhas3@gmail.com**
 - Visite meu linkedIn [aqui](https://www.linkedin.com/in/michaeliurimascarenhas/)
 
